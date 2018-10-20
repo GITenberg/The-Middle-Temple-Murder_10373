@@ -11,6 +11,7 @@ Title: The Middle Temple Murder
 Author: J.S. Fletcher
 
 Release Date: December 3, 2003 [EBook #10373]
+[Last updated: January 6, 2014]
 
 Language: English
 
@@ -1195,7 +1196,7 @@ Breton shrugged his shoulders again.
 
 "What?--by going up to every man who answers the description, and
 saying 'Sir, are you the man who accompanied John Marbury to the
-Aglo----"
+Anglo----"
 
 Spargo suddenly interrupted him.
 
@@ -1841,7 +1842,7 @@ he had spoken to Breton: Spargo wanted to do it alone.
 Mrs. Walters was in her low-windowed office when Spargo entered the
 hall; she recognized him at once and motioned him into her parlour.
 
-"I remember you," said Mrs., Walters; "you came with the detective--Mr.
+"I remember you," said Mrs. Walters; "you came with the detective--Mr.
 Rathbury."
 
 "Have you seen him, since?" asked Spargo.
@@ -2488,7 +2489,7 @@ offered him a cigarette. Spargo accepted it with a laconic word of
 thanks, and smoked half-way through it before he spoke again.
 
 "Yes," he said. "I'm trying to account. And I shall account. And I'm
-much obliged to you, Mr. Criedir, for what you've told me. Now. then,
+much obliged to you, Mr. Criedir, for what you've told me. Now, then,
 may I ask you a question or two?"
 
 "A thousand!" responded Mr. Criedir with great geniality.
@@ -2621,7 +2622,7 @@ tomorrow morning. Are you going?"
 
 "I shall certainly go," answered Breton. "What's more, I'm going to
 take Miss Aylmore and her sister. As the gruesome details were over at
-the first sitting, and as there'll he nothing but this new evidence
+the first sitting, and as there'll be nothing but this new evidence
 tomorrow, and as they've never been in a coroner's court----"
 
 "Mr. Aylmore'll be the principal witness tomorrow," interrupted Spargo.
@@ -4331,7 +4332,7 @@ have an antidote."
 "Dulness!" exclaimed the damsel. "That's the right word for Market
 Milcaster. There's just a few regular old customers drop in here of a
 morning, between eleven and one. A stray caller looks in--perhaps
---during the afternoon. Then, at night, a lot of old fogies sit
+during the afternoon. Then, at night, a lot of old fogies sit
 round that end of the room and talk about old times. Old times,
 indeed!--what they want in Market Milcaster is new times."
 
@@ -5169,7 +5170,7 @@ in this town who still believe that the coffin in your cemetery which
 is said to contain Chamberlayne's body contains--lead?"
 
 "Lots of 'em, my dear sir!" replied Mr. Quarterpage. "Lots of 'em! Go
-out in the street and asked the first six men you meet, and I'll go
+out in the street and ask the first six men you meet, and I'll go
 bail that four out of the six believe it."
 
 "Then why, in the sacred name of common sense did no one ever take
@@ -5542,7 +5543,7 @@ window, caught sight of a newspaper placard:
   THE MARBURY MURDER CASE
   ARREST OF MR. AYLMORE
 
-He snatched a paper from a boy as the train moved out and; unfolding
+He snatched a paper from a boy as the train moved out and, unfolding
 it, found a mere announcement in the space reserved for stop-press
 news:
 
@@ -5584,8 +5585,10 @@ evening, and it was quickly recognized by the woman who cleans up for
 Aylmore as having been in his rooms ever since she knew them."
 
 "What does Aylmore say about it?" asked Spargo. "I suppose he's said
-something?" "Says that the bludgeon is certainly his, and that he
-brought it from South America with him," announced Rathbury; "but that
+something?"
+
+"Says that the bludgeon is certainly his, and that he brought
+it from South America with him," announced Rathbury; "but that
 he doesn't remember seeing it in his rooms for some time, and thinks
 that it was stolen from them."
 
@@ -7333,10 +7336,10 @@ sort of what they call a Mutual Benefit Society in a town right away up
 in the North--Cloudhampton--some thirty years ago. He was nominally
 secretary, but it was really his own affair. It was patronized by the
 working classes--Cloudhampton's a purely artisan population--and they
-stuck a lot of their brass, as they call it, in it. Then suddenly it
-came to smash, and there was nothing. He--Ainsworth, or Aylmore--
-pleaded that he was robbed and duped by another man, but the court
-didn't believe him, and he got seven years. Plain story you see,
+stuck a lot of their brass, as they call it, in it. Then suddenly
+it came to smash, and there was nothing. He--Ainsworth, or
+Aylmore--pleaded that he was robbed and duped by another man, but the
+court didn't believe him, and he got seven years. Plain story you see,
 Spargo, when it all comes out, eh?"
 
 "All stories are quite plain--when they come out," observed Spargo.
@@ -7885,10 +7888,12 @@ I picked it up just now in Cardlestone's room, when you were looking
 into his bedroom."
 
 "But that, after all, proves nothing. Those mayn't be the identical
-stamps. And whether they are or not----" "What are the probabilities?"
-interrupted Spargo sharply. "I believe that those are the stamps which
-Maitland--your father!--had on him, and I want to know how they came to
-be in Cardlestone's rooms. And I will know."
+stamps. And whether they are or not----"
+
+"What are the probabilities?" interrupted Spargo sharply. "I believe
+that those are the stamps which Maitland--your father!--had on him,
+and I want to know how they came to be in Cardlestone's rooms.
+And I will know."
 
 Breton handed the stamps back.
 
@@ -9117,7 +9122,7 @@ his old port, and his little whims and fads. But--I knew him!"
 "I certainly did. He was glad to pay me a nice sum every quarter to
 hold my tongue," replied Myerst, "and I was glad to take it and,
 naturally, I gained a considerable knowledge of him. He had only one
-friend--Mr. Elphick, in there. Now, I'll you about him."
+friend--Mr. Elphick, in there. Now, I'll tell you about him."
 
 "Only if you are going to speak respectfully of him," said Breton
 sternly.
@@ -9386,11 +9391,11 @@ and peaceful telegraphist by darting, breathless and dirty, into a
 sleepy country post office, snatching a telegraph form and scribbling
 down a message in shaky handwriting:--
 
-  _Rathbury, New Scotland Yard, London.
-  Arrest Jane Baylis at once for murder of John Maitland.
-  Coming straight to town with full evidence.
+  _Rathbury, New Scotland Yard, London._
+  _Arrest Jane Baylis at once for murder of John Maitland._
+  _Coming straight to town with full evidence._
 
-  Frank Spargo_.
+  _Frank Spargo_.
 
 Then Spargo dropped on the office bench, and while the wondering
 operator set the wires ticking, strove to get his breath, utterly spent
